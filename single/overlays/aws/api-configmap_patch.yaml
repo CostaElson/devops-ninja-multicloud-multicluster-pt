@@ -1,6 +1,6 @@
 data:
   user: 'root'
-  host: 'cockroachdb.jonjon.svc.cluster.local' 
+  host: 'cockroachdb.caixa.svc.cluster.local' 
   database: 'files' 
   port: '26257'
 
