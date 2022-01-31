@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: api-book
-        image: jonathanbaraldi/api-book:dev
+        image: caixa/api-book:dev
         imagePullPolicy: Always
         envFrom:
         - configMapRef:
