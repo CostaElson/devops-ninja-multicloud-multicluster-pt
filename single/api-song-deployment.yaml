@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: api-song
-        image: jonathanbaraldi/api-song:dev
+        image: caixa/api-song:dev
         imagePullPolicy: Always
         envFrom:
         - configMapRef:
