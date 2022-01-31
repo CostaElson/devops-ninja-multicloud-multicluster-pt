@@ -1,6 +1,6 @@
 spec:
   rules:
-    - host: api.devops-ninja.ml
+    - host: api.multicloud-caixa.ml
       http:
         paths:
           - path: /book
